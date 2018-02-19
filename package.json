@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "firebase-admin": "^5.8.2",
+    "moment": "^2.20.1",
+    "node-binance-api": "^0.4.21",
+    "node-bittrex-api": "^0.8.3",
+    "socket.io": "^2.0.4"
+  }
+}
